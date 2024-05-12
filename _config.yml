@@ -1,15 +1,20 @@
 # User config
-author: "Pineapple"
-tagline: "Pineapple Certfied Jekyll Theme"
-description: "In 1493, explorer Christopher Columbus found pineapples on Guadeloupe Island in the Caribbean. Pineapple on pizza soon followed..."
-keywords: "Pineapple, Pineapple Pizza, Pineapple House"
-email: "pineapple@example.com"
-linkedin: "https://www.linkedin.com/"
-twitter: "https://twitter.com/"
-github: "https://github.com/"
+author: "Katie Hughes"
+tagline: "Katie Hughes's Portfolio"
+description: "I'm a masters in robotics student at Northwestern University set to graduate
+in December 2023. I earned my BA in physics and a minor in computer science from the University of 
+Chicago in 2021. After my graduation, I worked for the ATLAS Experiment at CERN for one year as a 
+part of the University of Chicago high energy physics group. This past summer, I interned at 
+Boston Dynamics as a part of the Stretch team. Feel free to reach out to me about any of my projects!"
+keywords: "Keywords"
+email: "khughes1@u.northwestern.edu"
+resume: "https://drive.google.com/file/d/1U-0fPyps2sgKbNdxp-qpJKZsqDvSDCwj/view?usp=sharing"
+linkedin: "https://www.linkedin.com/in/katie-rees-hughes/"
+github: "https://github.com/katie-hughes"
+
 
 # Site config
-baseurl: "/pineapple"
+baseurl: ""
 highlighter: rouge
 sass:
   sass_dir: assets/scss

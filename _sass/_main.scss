@@ -1,23 +1,40 @@
 @charset "utf-8";
-@import url('https://fonts.googleapis.com/css?family=Montserrat');
 
-$family-sans-serif: 'Montserrat', sans-serif;
-$primary: #188eac !default;
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Righteous&display=swap');
+$family-sans-serif: 'Open Sans', sans-serif;
+$family-serif: 'Righteous', cursive;
+$family-primary: $family-sans-serif;
+$family-secondary: $family-serif;
+$title-family: $family-secondary;
+h1, h2, h3, h4, h5, h6 {
+  font-family: $family-secondary;
+}
 
-$tabs-link-active-color: $primary;
-$tabs-link-active-border-bottom-color: $primary;
+// Colours
+$primary: #4fa6a3 !default;
+$dark: #363636;
+$light: #C9DAEA;
+$white: #ffffff;
+$topbar: #4fa6a3;
 
-$modal-content-width: 800px;
+//Cards
+$card-shadow: 15px 15px 10px #afb2b4;
+$card-footer-border-top: none;
+$card-background-color: $light;
 
-@import "../node_modules/bulma/sass";
-@import "../node_modules/bulma/sass/utilities/mixins";
-$hero-darken: $dark !default;
+// Pagination
+$pagination-focus-border-color: $dark;
+$pagination-current-color: $white;
+$pagination-current-background-color: $dark;
+$pagination-current-border-color: $dark;
 
+// Radius
+$radius: 5;
+$radius-large: 5;
+$radius-small: 15;
+
+@import "../node_modules/bulma/bulma.sass";
 @import "layout";
 @import "syntax";
-@import "showcase";
-@import "block-list";
-
-.gh-sponsor {
-  color: #ea4aaa;
-}
+@import "intro";

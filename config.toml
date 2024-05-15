@@ -9,7 +9,7 @@ theme = "hugo-theme-doors"
 
 [module]
   [[module.imports]]
-    path = "github.com/zzzmisa/hugo-theme-doors"
+    path = "hugo-theme-doors"
 
 disableRSS = true
 disableSitemap = true

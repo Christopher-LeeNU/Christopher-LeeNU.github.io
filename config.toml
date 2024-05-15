@@ -4,7 +4,7 @@ baseurl = "https://example.org/"
 languageCode = "en-us"
 title = "Hugo Theme Doors"
 copyright = "© Hugo Theme Doors"
-disableKinds = ["taxonomy", "taxonomyTerm"]
+disableKinds = ["taxonomy"]
 theme = "hugo-theme-doors"
 
 disableRSS = true

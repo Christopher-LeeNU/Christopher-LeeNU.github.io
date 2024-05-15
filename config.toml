@@ -7,6 +7,10 @@ copyright = "© Hugo Theme Doors"
 disableKinds = ["taxonomy"]
 theme = "hugo-theme-doors"
 
+[module]
+  [[module.imports]]
+    path = "https://github.com/zzzmisa/hugo-theme-doors"
+
 disableRSS = true
 disableSitemap = true
 disable404 = true

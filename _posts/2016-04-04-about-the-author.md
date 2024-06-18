@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "About the Author"
-author: "Paul Le"
+author: "Christopher Lee"
 categories: facts
 tags: [sample]
 image: cuba-2.jpg
 ---
 
-Hi there! I'm Paul. I’m a physics major turned programmer. Ever since I first learned how to program while taking a scientific computing for physics course, I have pursued programming as a passion, and as a career. Check out [my personal website](https://www.lenpaul.com/) for more information on my other projects (including more Jekyll themes!), as well as some of my writing.
+Hi there! I'm Chris Lee. I’m a mechanical engineer and hobbyist artist. I received my Bachelors and Masters in mechanical engineering from Northwestern University, and I hope to make devices for a healthier more sustainable world. I am interested in robotics, embedded systems, and product design. As an artist, I am interested in surrealism, comics, origami, and the integration of engineering in arts.

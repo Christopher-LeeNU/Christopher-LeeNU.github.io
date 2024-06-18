@@ -1,7 +1,10 @@
 ---
-layout: page
-title: About
-permalink: /about
+layout: post
+title: "About the Author"
+author: "Christopher Lee"
+categories: facts
+tags: [sample]
+image: cuba-2.jpg
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+Hi there! I'm Chris Lee. I’m a mechanical engineer and hobbyist artist. I received my Bachelors and Masters in mechanical engineering from Northwestern University, and I hope to make devices for a healthier more sustainable world. I am interested in robotics, embedded systems, and product design. As an artist, I am interested in surrealism, comics, origami, and the integration of engineering in arts.

@@ -59,7 +59,7 @@ I realized I loved engineering after competing in FIRST robotics throughout high
 <div class="container">
   <div class="image-card">
     <a href="/facts">
-      <img src="/assets/img/aiet-hand.jpg" alt="Northwestern Haptics Lab">
+      <img src="/assets/img/aiet-hand.png" alt="Northwestern Haptics Lab">
       <div class="overlay">Northwestern Haptics Lab</div>
     </a>
   </div>

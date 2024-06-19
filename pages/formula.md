@@ -31,7 +31,7 @@ We manufactured parts using manual mills, lathes, and CNC machines. We had tight
 
 # Uprights
 
-Solarized dark             |  Solarized Ocean
+Frame Facing View           |  Outside Facing View
 :-------------------------:|:-------------------------:
 ![corner](/assets/img/upright.png)  |  ![notire](/assets/img/formula/notire.png)
 

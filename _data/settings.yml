@@ -7,7 +7,7 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Engineering Projects',  url: 'facts'}
+- {name: 'Engineering Projects',  url: 'engineering'}
 - {name: 'Art Projects', url: 'arts'}
 - {name: 'Sample Posts',       url: 'sample-posts'}
 - {name: 'Resume',      url: 'resume'}

@@ -4,8 +4,6 @@ title: Contact
 permalink: /contact
 ---
 
-# Contact Me
-
 You can reach me via email or LinkedIn:
 
 <div style="font-size: 1.5em;">

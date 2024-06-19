@@ -4,18 +4,21 @@ title: Paintings
 permalink: /arts/paintings
 ---
 
-I work primarily with oil paints, and I enjoy surrealism and landscapes. Some of my biggest inspirations are [Simon Stalenhag](https://www.simonstalenhag.se/index.html), [Peter Schouten](https://en.wikipedia.org/wiki/Peter_Schouten), and [Mark Maggiori](https://markmaggiori.com/).
+I work primarily with oil paints, and I enjoy surrealism and landscapes. 
+Some of my biggest inspirations are [Simon Stalenhag](https://www.simonstalenhag.se/index.html), 
+[Peter Schouten](https://en.wikipedia.org/wiki/Peter_Schouten), and [Mark Maggiori](https://markmaggiori.com/).
 
 <style>
-.image-container {
+.container {
   display: flex;
   flex-wrap: wrap;
   gap: 20px;
+  align-items: flex-start;
 }
 
 .image-card {
   position: relative;
-  width: 1000px;
+  width: calc(33.33% - 20px); /* Ensure cards are responsive */
   overflow: hidden;
   transition: transform 0.3s ease;
 }
@@ -24,7 +27,6 @@ I work primarily with oil paints, and I enjoy surrealism and landscapes. Some of
   width: 100%;
   display: block;
   transition: transform 0.3s ease;
-  border-radius: 5px;
 }
 
 .image-card:hover img {

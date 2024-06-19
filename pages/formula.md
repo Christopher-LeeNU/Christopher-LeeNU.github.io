@@ -19,7 +19,7 @@ This animation shows steering powered by a rack and pinion. In my design, I star
 
 I then created a SolidWorks assembly of the system. I used torsional stress equations and FEA to ensure parts could withstand the loads within a factor of safety.  
 
-![Ackermann Gif](/assets/img/formula/ackermannsteer.gif)  
+![CAD Assembly](/assets/img/formula/steering_frame_assembly.jpg)  
 
 ## Manufacturing
 
@@ -29,14 +29,18 @@ We manufactured parts using manual mills, lathes, and CNC machines. We had tight
 
 # Uprights
 
+## Design
+
 The uprights undergo very high stresses during braking and cornering. They connect the frame to the wheels, so preventing failure is paramount. At the same time, these parts need to be as light as possible to maximize speed.
 
-I made manufacturing drawings with GD&T for surfaces like bearing bores. The uprights house a lot of critical parts like wheel hubs, brake calipers and speed sensors. 
+## Manufacturing
+
+I made manufacturing drawings with GD&T for critical surfaces like bearing bores. The uprights house a lot of critical parts like wheel hubs, brake calipers and speed sensors. This part was made on a 3-axis CNC. 
 
 ![Upright Drawing](/assets/img/formula/uprightdrawing.pdf)
 
-## Design
 
-## Manufacturing
+
+
 
 

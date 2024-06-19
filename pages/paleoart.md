@@ -15,7 +15,7 @@ These are my entries for the 2020 Dinovember challenge hosted by Charlotte Hohma
 
 .image-card {
   position: relative;
-  width: 1000px;
+  width: 500px;
   overflow: hidden;
   transition: transform 0.3s ease;
 }

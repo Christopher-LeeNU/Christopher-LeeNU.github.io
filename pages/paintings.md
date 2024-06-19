@@ -61,15 +61,6 @@ Some of my biggest inspirations are [Simon Stalenhag](https://www.simonstalenhag
 }
 </style>
 
-<div class="image-container">
-  <div class="image-card">
-    <a href="/assets/img/dromornis.jpg" target="_blank">
-      <img src="/assets/img/dromornis.jpg" alt="Dromornis">
-      <div class="image-overlay">
-        <p>Dromornis</p>
-      </div>
-    </a>
-  </div>
   
   <div class="image-card">
     <a href="/assets/img/paintings/dandelion.JPG" target="_blank">

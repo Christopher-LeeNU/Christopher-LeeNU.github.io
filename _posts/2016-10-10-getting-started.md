@@ -7,6 +7,8 @@ tags: [documentation, sample]
 image: city-1.jpg
 ---
 
+I've practiced visual arts for as long as I remember. I am self-taught (thank you internet), and I am always looking for ways to create pieces that tell stories while being technically challenging.
+
 <style>
 .container {
   display: flex;

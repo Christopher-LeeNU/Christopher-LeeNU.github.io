@@ -61,10 +61,10 @@ Origami is a traditional Japanese craft, and the beauty and simplicity of the mo
 
 <div class="image-container">
   <div class="image-card">
-    <a href="/assets/img/dromornis.jpg" target="_blank">
-      <img src="/assets/img/dromornis.jpg" alt="Dromornis">
+    <a href="/assets/img/raccoon.jpg" target="_blank">
+      <img src="/assets/img/raccoon.jpg" alt="Raccoon">
       <div class="image-overlay">
-        <p>Dromornis</p>
+        <p>Raccoon</p>
       </div>
     </a>
   </div>

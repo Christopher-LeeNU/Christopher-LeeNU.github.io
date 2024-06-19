@@ -21,7 +21,6 @@ I've practiced visual arts for as long as I remember. I am self-taught (thank yo
   width: 300px;
   margin: 20px;
   overflow: hidden;
-  border-radius: 10px;
   transition: transform 0.3s ease;
 }
 
@@ -48,6 +47,7 @@ I've practiced visual arts for as long as I remember. I am self-taught (thank yo
   text-align: center;
   padding: 10px;
   transition: 0.3s ease;
+  border-radius: 0; /* Ensure sharp corners */
 }
 
 .image-card:hover .overlay {
@@ -59,19 +59,19 @@ I've practiced visual arts for as long as I remember. I am self-taught (thank yo
   <div class="image-card">
     <a href="/facts">
       <img src="/assets/img/raccoon.jpg" alt="City">
-      <div class="overlay">City Post</div>
+      <div class="overlay">Origami</div>
     </a>
   </div>
   <div class="image-card">
-    <a href="/path/to/post2">
-      <img src="/assets/img/nature-1.jpg" alt="Nature">
-      <div class="overlay">Nature Post</div>
+    <a href="/facts">
+      <img src="/assets/img/dromornis.jpg" alt="Nature">
+      <div class="overlay">Paleoart</div>
     </a>
   </div>
   <div class="image-card">
     <a href="/path/to/post3">
       <img src="/assets/img/abstract-1.jpg" alt="Abstract">
-      <div class="overlay">Abstract Post</div>
+      <div class="overlay">Painting</div>
     </a>
   </div>
 </div>

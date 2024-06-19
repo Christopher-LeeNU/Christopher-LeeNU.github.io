@@ -45,7 +45,9 @@ We manufactured parts using manual mills, lathes, and CNC machines. We had tight
 
 The uprights undergo very high stresses during braking and cornering. They connect the frame to the wheels, so preventing failure is paramount. At the same time, these parts need to be as light as possible to maximize speed.
 
-![FEA](/assets/img/formula/fea.png)
+![FEA](/assets/img/formula/fea.png)  
+
+ Usually our load cases did not change very much year to year, but this was the first year we designed an electric vehicle. I took extra care in the validation by running FEA for 3 cases: maximum straightaway acceleration, maximum braking, and cornering on the tightest turn on the track. I also ran simple calculations for fatigue failure for the hubs by approximating it as a shaft.
 
 ## Manufacturing
 

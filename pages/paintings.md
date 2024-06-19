@@ -81,8 +81,8 @@ Some of my biggest inspirations are [Simon Stalenhag](https://www.simonstalenhag
   </div>
   
   <div class="image-card">
-    <a href="/assets/img/paintings/joseph_sweeney.PNG" target="_blank">
-      <img src="/assets/img/paintings/joseph_sweeney.PNG" alt="Joseph Sweeney through Gamsol">
+    <a href="/assets/img/paintings/joseph_sweeney.png" target="_blank">
+      <img src="/assets/img/paintings/joseph_sweeney.png" alt="Joseph Sweeney through Gamsol">
       <div class="image-overlay">
         <p>Joseph Sweeney through Gamsol</p>
       </div>

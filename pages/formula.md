@@ -31,15 +31,17 @@ We manufactured parts using manual mills, lathes, and CNC machines. We had tight
 
 # Uprights
 
-Frame Facing View           |  Outside Facing View
-:-------------------------:|:-------------------------:
-![corner](/assets/img/upright.png)  |  ![no tire](/assets/img/formula/notire.png)
+<p float="left">
+  <img src="/assets/img/upright.png" width="300" />
+  <img src="/assets/img/formula/notire.png" width="300" /> 
+</p>
 
 ## Design
 
-Concept Sketch          |  Hub Fatigue Calc Sketch
-:-------------------------:|:-------------------------:
-![sketch 1](/assets/img/formula/uprightsketch1.jpg)  |  ![sketch 2](/assets/img/formula/uprightsketch2.jpg)
+<p float="left">
+  <img src="/assets/img/formula/uprightsketch1.jpg" width="300" />
+  <img src="/assets/img/formula/uprightsketch2.jpg" width="300" /> 
+</p>  
 
 The uprights undergo very high stresses during braking and cornering. They connect the frame to the wheels, so preventing failure is paramount. At the same time, these parts need to be as light as possible to maximize speed.
 

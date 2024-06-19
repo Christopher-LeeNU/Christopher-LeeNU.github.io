@@ -18,7 +18,7 @@ I then created a SolidWorks assembly of the system. I used torsional stress equa
 
 ## Manufacturing
 
-![steering in frame](/assets/img/formula/steering_in_frame.JPG)
+![steering in frame](/assets/img/formula/steering_in_frame.jpg)
 
 # Uprights
 

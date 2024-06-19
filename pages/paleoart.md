@@ -4,6 +4,8 @@ title: Paleoart
 permalink: /arts/paleoart
 ---
 
+These are my entries for the 2020 Dinovember challenge hosted by Charlotte Hohman. I based my drawings on fossils, descriptions in papers, and I chose plants based on what may have been living in the area at the time. Color patterns are speculative.  
+
 <style>
 .image-container {
   display: flex;

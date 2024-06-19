@@ -10,7 +10,8 @@ Some of my biggest inspirations are [Simon Stalenhag](https://www.simonstalenhag
 
 <style>
 .container {
-  display: block; /* Ensure the container stacks images vertically */
+  max-width: 800px; /* Adjust this value to match your text width */
+  margin: 0 auto; /* Center the container */
 }
 
 .image-card {

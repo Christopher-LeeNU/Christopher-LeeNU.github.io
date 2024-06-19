@@ -33,7 +33,7 @@ We manufactured parts using manual mills, lathes, and CNC machines. We had tight
 
 Frame Facing View           |  Outside Facing View
 :-------------------------:|:-------------------------:
-![corner](/assets/img/formula/upright.png)  |  ![no tire](/assets/img/formula/notire.png)
+![corner](/assets/img/upright.png)  |  ![no tire](/assets/img/formula/notire.png)
 
 ## Design
 

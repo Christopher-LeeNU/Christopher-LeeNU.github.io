@@ -70,7 +70,7 @@ I've practiced visual arts for as long as I remember. I am self-taught (thank yo
   </div>
   <div class="image-card">
     <a href="/facts">
-      <img src="/assets/img/sun-painting.jpg" alt="Painting">
+      <img src="/assets/img/sun-painting.JPG" alt="Painting">
       <div class="overlay">Painting</div>
     </a>
   </div>

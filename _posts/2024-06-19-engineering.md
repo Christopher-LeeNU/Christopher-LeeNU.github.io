@@ -59,20 +59,20 @@ I realized I loved engineering after competing in FIRST robotics throughout high
 <div class="container">
   <div class="image-card">
     <a href="/facts">
-      <img src="/assets/img/raccoon.jpg" alt="Origami">
-      <div class="overlay">Origami</div>
+      <img src="/assets/img/aiet-hand.jpg" alt="Northwestern Haptics Lab">
+      <div class="overlay">Northwestern Haptics Lab</div>
     </a>
   </div>
   <div class="image-card">
     <a href="/facts">
-      <img src="/assets/img/dromornis.jpg" alt="Paleoart">
-      <div class="overlay">Paleoart</div>
+      <img src="/assets/img/upright.png" alt="Formula Racing">
+      <div class="overlay">Formula Racing</div>
     </a>
   </div>
   <div class="image-card">
     <a href="/facts">
-      <img src="/assets/img/sun-painting.JPG" alt="Painting">
-      <div class="overlay">Painting</div>
+      <img src="/assets/img/da-snake.jpg" alt="DS">
+      <div class="overlay">DS (Da Snake)</div>
     </a>
   </div>
 </div>

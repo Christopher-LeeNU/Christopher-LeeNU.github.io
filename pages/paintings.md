@@ -61,7 +61,7 @@ Some of my biggest inspirations are [Simon Stalenhag](https://www.simonstalenhag
 }
 </style>
 
-  
+<div class="container">
   <div class="image-card">
     <a href="/assets/img/paintings/dandelion.JPG" target="_blank">
       <img src="/assets/img/paintings/dandelion.JPG" alt="Dandelions">

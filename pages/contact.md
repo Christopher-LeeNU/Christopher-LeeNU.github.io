@@ -4,4 +4,16 @@ title: Contact
 permalink: /contact
 ---
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Millennial%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/Millennial/issues/new).
+# Contact Me
+
+You can reach me via email or LinkedIn:
+
+<div style="font-size: 1.5em;">
+  <a href="mailto:christopherlee91.22@gmail.com" style="margin-right: 15px;">
+    <i class="fas fa-envelope"></i>
+  </a>
+  <a href="https://www.linkedin.com/in/christopher-l-b24a83164" target="_blank">
+    <i class="fab fa-linkedin"></i>
+  </a>
+</div>
+

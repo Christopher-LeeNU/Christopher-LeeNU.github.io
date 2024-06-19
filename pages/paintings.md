@@ -10,16 +10,14 @@ Some of my biggest inspirations are [Simon Stalenhag](https://www.simonstalenhag
 
 <style>
 .container {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 20px;
-  align-items: flex-start;
+  display: block; /* Ensure the container stacks images vertically */
 }
 
 .image-card {
   position: relative;
-  width: calc(33.33% - 20px); /* Ensure cards are responsive */
+  width: 100%; /* Make each card take full width */
   overflow: hidden;
+  margin-bottom: 20px; /* Add space between images */
   transition: transform 0.3s ease;
 }
 

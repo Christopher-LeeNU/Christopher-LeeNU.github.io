@@ -55,7 +55,7 @@ image: city-1.jpg
 
 <div class="container">
   <div class="image-card">
-    <a href="/path/to/post1">
+    <a href="/facts">
       <img src="/assets/img/racoon.jpg" alt="City">
       <div class="overlay">City Post</div>
     </a>

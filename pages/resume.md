@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Resume
-# category: documentation
-permalink: /documentation
+permalink: /resume
 ---
 
 

@@ -58,19 +58,19 @@ I've practiced visual arts for as long as I remember. I am self-taught (thank yo
 <div class="container">
   <div class="image-card">
     <a href="/facts">
-      <img src="/assets/img/raccoon.jpg" alt="City">
+      <img src="/assets/img/raccoon.jpg" alt="Origami">
       <div class="overlay">Origami</div>
     </a>
   </div>
   <div class="image-card">
     <a href="/facts">
-      <img src="/assets/img/dromornis.jpg" alt="Nature">
+      <img src="/assets/img/dromornis.jpg" alt="Paleoart">
       <div class="overlay">Paleoart</div>
     </a>
   </div>
   <div class="image-card">
-    <a href="/path/to/post3">
-      <img src="/assets/img/abstract-1.jpg" alt="Abstract">
+    <a href="/facts">
+      <img src="/assets/img/sun-painting.jpg" alt="Painting">
       <div class="overlay">Painting</div>
     </a>
   </div>

@@ -2,6 +2,7 @@
 layout: post
 title: "Engineering"
 author: "Chris Lee"
+permalink: /engineering
 categories: documentation
 tags: [documentation,sample]
 image: cuba-1.jpg

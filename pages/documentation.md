@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Documentation
+title: Resume
 category: documentation
 permalink: /documentation
 ---

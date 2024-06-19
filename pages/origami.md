@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Paleoart
-permalink: /arts/paleoart
+title: Origami
+permalink: /arts/origami
 ---
 
-These are my entries for the 2020 Dinovember challenge hosted by Charlotte Hohman. I based my drawings on fossils, descriptions in papers, and I chose plants based on what may have been living in the area at the time. Color patterns are speculative.  
+Origami is a traditional Japanese craft, and the beauty and simplicity of the models can bring tranquility and peace. I've thrown that away to design needlessly complicated things with complicated instructions. If you choose to make one of my models, let me know @1000papercranesforahat in the [Origami Dan Discord server]([https://link-url-here.org](https://discord.com/invite/origami-dan-zhe-rizhi-tuan-553401275127955476)). 
 
 <style>
 .image-container {
@@ -61,10 +61,10 @@ These are my entries for the 2020 Dinovember challenge hosted by Charlotte Hohma
 
 <div class="image-container">
   <div class="image-card">
-    <a href="/assets/img/dromornis.jpg" target="_blank">
-      <img src="/assets/img/dromornis.jpg" alt="Dromornis">
+    <a href="/assets/img/raccoon.jpg" target="_blank">
+      <img src="/assets/img/raccoon.jpg" alt="Raccoon">
       <div class="image-overlay">
-        <p>Dromornis</p>
+        <p>Raccoon</p>
       </div>
     </a>
   </div>

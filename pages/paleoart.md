@@ -11,11 +11,12 @@ These are my entries for the 2020 Dinovember challenge hosted by Charlotte Hohma
   display: flex;
   flex-wrap: wrap;
   gap: 20px;
+  align-items: flex-start;
 }
 
 .image-card {
   position: relative;
-  width: 1000px;
+  width: calc(33.33% - 20px); /* Adjust the width to make the images responsive */
   overflow: hidden;
   transition: transform 0.3s ease;
 }
@@ -24,7 +25,7 @@ These are my entries for the 2020 Dinovember challenge hosted by Charlotte Hohma
   width: 100%;
   display: block;
   transition: transform 0.3s ease;
-  border-radius: 5px;
+  border-radius: 0; /* Set border-radius to 0 for sharp corners */
 }
 
 .image-card:hover img {

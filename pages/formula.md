@@ -45,10 +45,9 @@ The uprights undergo very high stresses during braking and cornering. They conne
 
 ## Manufacturing
 
-I made manufacturing drawings with GD&T for critical surfaces like bearing bores. The uprights house a lot of critical parts like wheel hubs, brake calipers and speed sensors. This part was made on a 3-axis CNC. 
+I made manufacturing drawings with GD&T for critical surfaces like bearing bores. The uprights house a lot of critical parts like wheel hubs, brake calipers and speed sensors. This part was made on a 3-axis CNC.  
 
-![Upright Drawing](/assets/img/formula/uprightdrawing.pdf)
-
+<iframe src="/assets/img/formula/uprightdrawing.pdf" style="width:100%; height:500px;" frameborder="0"></iframe>
 
 
 

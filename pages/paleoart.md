@@ -4,19 +4,18 @@ title: Paleoart
 permalink: /arts/paleoart
 ---
 
-These are my entries for the 2020 Dinovember challenge hosted by Charlotte Hohman. I based my drawings on fossils, descriptions in papers, and I chose plants based on what may have been living in the area at the time. Color patterns are speculative.  
+These are my entries for the 2020 Dinovember challenge hosted by Charlotte Hohman. I based my drawings on fossils, descriptions in papers, and I chose plants based on what may have been living in the area at the time. Color patterns are speculative.
 
 <style>
 .image-container {
   display: flex;
   flex-wrap: wrap;
   gap: 20px;
-  align-items: flex-start;
 }
 
 .image-card {
   position: relative;
-  width: calc(33.33% - 20px); /* Adjust the width to make the images responsive */
+  width: 1000px;
   overflow: hidden;
   transition: transform 0.3s ease;
 }
@@ -25,7 +24,7 @@ These are my entries for the 2020 Dinovember challenge hosted by Charlotte Hohma
   width: 100%;
   display: block;
   transition: transform 0.3s ease;
-  border-radius: 0; /* Set border-radius to 0 for sharp corners */
+  border-radius: 5px;
 }
 
 .image-card:hover img {
@@ -59,6 +58,7 @@ These are my entries for the 2020 Dinovember challenge hosted by Charlotte Hohma
   margin: 10px;
 }
 </style>
+
 
 <div class="image-container">
   <div class="image-card">
@@ -98,10 +98,28 @@ These are my entries for the 2020 Dinovember challenge hosted by Charlotte Hohma
   </div>
   
   <div class="image-card">
-    <a href="/assets/img/Dinovember2020/pelagornis.jpg" target="_blank">
-      <img src="/assets/img/Dinovember2020/pelagornis.jpg" alt="Pelagornis">
+    <a href="/assets/img/Dinovember2020/buriolestes.jpg" target="_blank">
+      <img src="/assets/img/Dinovember2020/buriolestes.jpg" alt="Buriolestes">
       <div class="image-overlay">
-        <p>Pelagornis</p>
+        <p>Buriolestes</p>
+      </div>
+    </a>
+  </div>
+
+  <div class="image-card">
+    <a href="/assets/img/Dinovember2020/dracoraptor.jpg" target="_blank">
+      <img src="/assets/img/Dinovember2020/dracoraptor.jpg" alt="Dracoraptor">
+      <div class="image-overlay">
+        <p>Dracoraptor</p>
+      </div>
+    </a>
+  </div>
+
+  <div class="image-card">
+    <a href="/assets/img/Dinovember2020/tarchia.jpg" target="_blank">
+      <img src="/assets/img/Dinovember2020/tarchia.jpg" alt="Tarchia">
+      <div class="image-overlay">
+        <p>Tarchia</p>
       </div>
     </a>
   </div>

@@ -31,9 +31,17 @@ We manufactured parts using manual mills, lathes, and CNC machines. We had tight
 
 # Uprights
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![corner](/assets/img/upright.png)  |  ![notire](/assets/img/formula/notire.png)
+
 ## Design
 
+
+
 The uprights undergo very high stresses during braking and cornering. They connect the frame to the wheels, so preventing failure is paramount. At the same time, these parts need to be as light as possible to maximize speed.
+
+![FEA](/assets/img/formula/fea.png)
 
 ## Manufacturing
 

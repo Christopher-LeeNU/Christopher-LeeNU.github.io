@@ -4,7 +4,7 @@ title: Formula Racing
 permalink: /engineering/formula
 ---
 
-
+![susteam](/assets/img/formula/NFR22team.jpg)  
 
 I was a member of the suspension subteam on Northwestern Formula Racing from 2021-2023. I designed and manufactured the steering system and uprights. I had many amazing mentors and teammates, and I greatly enjoyed teaching younger members essential skills like CAD and metal machining.
 

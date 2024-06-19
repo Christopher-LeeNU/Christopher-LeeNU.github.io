@@ -102,7 +102,7 @@ Some of my biggest inspirations are [Simon Stalenhag](https://www.simonstalenhag
     <a href="/assets/img/paintings/dino.JPG" target="_blank">
       <img src="/assets/img/paintings/dino.JPG" alt="Dino">
       <div class="image-overlay">
-        <p>Dino</p>
+        <p>Dino, 5'x4'</p>
       </div>
     </a>
   </div>

@@ -5,8 +5,8 @@ permalink: /arts/paintings
 ---
 
 I work primarily with oil paints, and I enjoy surrealism and landscapes. 
-Some of my biggest inspirations are ![Simon Stalenhag]("https://www.simonstalenhag.se/index.html"), 
-![Peter Schouten]("https://en.wikipedia.org/wiki/Peter_Schouten"), and ![Mark Maggiori]("https://markmaggiori.com/").
+Some of my biggest inspirations are [Simon Stalenhag]("https://www.simonstalenhag.se/index.html"), 
+[Peter Schouten]("https://en.wikipedia.org/wiki/Peter_Schouten"), and [Mark Maggiori]("https://markmaggiori.com/").
 
 <style>
 .image-container {

@@ -12,6 +12,9 @@ I was a member of the suspension subteam on Northwestern Formula Racing from 202
 
 I started with the minimum turn radius on the track to define the steering geometry following the Ackermann model.
 
+![Ackermann Gif](/assets/img/formula/ackermannsteer.gif)
+This animation shows steering powered by a rack and pinion.
+
 I then created a SolidWorks assembly of the system. I used torsional stress equations and FEA to ensure parts could withstand the loads within a factor of safety.  
 
 

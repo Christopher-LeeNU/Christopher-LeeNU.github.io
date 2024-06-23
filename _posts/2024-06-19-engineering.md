@@ -70,7 +70,7 @@ I realized I loved engineering after competing in FIRST robotics throughout high
     </a>
   </div>
   <div class="image-card">
-    <a href="/engineering/ds">
+    <a href="/engineering/DS">
       <img src="/assets/img/da-snake.jpg" alt="DS">
       <div class="overlay">DS (Da Snake)</div>
     </a>

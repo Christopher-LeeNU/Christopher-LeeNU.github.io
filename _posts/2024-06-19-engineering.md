@@ -81,4 +81,10 @@ I realized I loved engineering after competing in FIRST robotics throughout high
       <div class="overlay">KUKA youBot</div>
     </a>
   </div>
+  <div class="image-card">
+    <a href="/engineering/belltrain">
+      <img src="/assets/img/mykalebelltrain/belltrain.JPEG" alt="My Kale Bell Train">
+      <div class="overlay">My Kale Bell Train</div>
+    </a>
+  </div>
 </div>

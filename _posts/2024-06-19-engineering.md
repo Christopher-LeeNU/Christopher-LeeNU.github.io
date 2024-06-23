@@ -75,4 +75,10 @@ I realized I loved engineering after competing in FIRST robotics throughout high
       <div class="overlay">DS (Da Snake)</div>
     </a>
   </div>
+  <div class="image-card">
+    <a href="/engineering/kuka">
+      <img src="/assets/img/kukapic.png" alt="KUKA youBot">
+      <div class="overlay">KUKA youBot</div>
+    </a>
+  </div>
 </div>

@@ -31,16 +31,29 @@ We manufactured parts using manual mills, lathes, and CNC machines. We had tight
 
 # Uprights
 
+<p float="left">
+  <img src="/assets/img/upright.png" width="300" />
+  <img src="/assets/img/formula/notire.png" width="300" /> 
+</p>
+
 ## Design
+
+<p float="left">
+  <img src="/assets/img/formula/uprightsketch1.jpg" width="300" />
+  <img src="/assets/img/formula/uprightsketch2.jpg" width="300" /> 
+</p>  
 
 The uprights undergo very high stresses during braking and cornering. They connect the frame to the wheels, so preventing failure is paramount. At the same time, these parts need to be as light as possible to maximize speed.
 
+![FEA](/assets/img/formula/fea.png)  
+
+ Usually our load cases did not change very much year to year, but this was the first year we designed an electric vehicle. I took extra care in the validation by running FEA for 3 cases: maximum straightaway acceleration, maximum braking, and cornering on the tightest turn on the track. I also ran simple calculations for fatigue failure for the hubs by approximating it as a shaft.
+
 ## Manufacturing
 
-I made manufacturing drawings with GD&T for critical surfaces like bearing bores. The uprights house a lot of critical parts like wheel hubs, brake calipers and speed sensors. This part was made on a 3-axis CNC. 
+I made manufacturing drawings with GD&T for critical surfaces like bearing bores. The uprights house a lot of critical parts like wheel hubs, brake calipers and speed sensors. This part was made on a 3-axis CNC.  
 
-![Upright Drawing](/assets/img/formula/uprightdrawing.pdf)
-
+<iframe src="/assets/img/formula/uprightdrawing.pdf" style="width:100%; height:500px;" frameborder="0"></iframe>
 
 
 

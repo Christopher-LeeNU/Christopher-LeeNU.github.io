@@ -12,14 +12,12 @@ My Kale Bell Train is an injection-molded toy train, created as a team project b
 
 ![sketch](/assets/img/mykalebelltrain/sketch.png)  
 
-The project began with a simple concept sketch of the train. From there, we developed detailed CAD models using Siemens NX. The models included both the train and a cart, designed with precision to ensure they could be manufactured efficiently and accurately.  
+The project began with a simple concept sketch of the train. From there, we developed detailed CAD models using Siemens NX. The models included both the train and a cart, designed with precision to ensure they could be manufactured efficiently and accurately. 
 
-<p float="left">
-  <img src="/assets/img/mykalebelltrain/core.jpg" width="300" />
-  <img src="/assets/img/mykalebelltrain/mold.jpg" width="300" /> 
-</p>  
+![cad](/assets/img/mykalebelltrain/cad.png)  
 
 ## Mold Design and Manufacturing
+
 We focused on creating cores and molds that adhered to best practices for injection molding. Key considerations included:
 
 Uniform Wall Thickness: To prevent defects and ensure consistent quality.
@@ -29,6 +27,11 @@ Proper Runner Placement: To ensure smooth flow of the molten material and reduce
 After finalizing the designs, we used CNC machining to create the cores and molds from durable materials.
 
 ![cam](/assets/img/mykalebelltrain/cam.png)  
+
+<p float="left">
+  <img src="/assets/img/mykalebelltrain/core.jpg" width="300" />
+  <img src="/assets/img/mykalebelltrain/mold.jpg" width="300" /> 
+</p>  
 
 ## Injection Molding Process
 For the injection molding process, we chose Polypropylene due to its excellent balance of properties, including durability and ease of molding. The parts were injected, cooled, and then assembled into the final train and cart.

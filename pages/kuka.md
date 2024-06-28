@@ -6,7 +6,7 @@ permalink: /engineering/kuka
 
 ![bot](/assets/img/kukapic.png)  
 
-For my capstone project in the course on robotic manipulation, I developed a simulation package for controlling a Kuka YouBot to autonomously pick up and move a block within the CoppeliaSim environment.
+For my capstone project in the course on robotic manipulation, I developed a simulation package for controlling a Kuka YouBot to autonomously pick up and move a block within the CoppeliaSim environment. You can find the code files [here](https://github.com/Christopher-LeeNU/ME-449-KUKA-Trajectory).
 
 ## Trajectory Generation
 The desired trajectory for the manipulator was divided into eight distinct segments. The key steps involved were:

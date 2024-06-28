@@ -4,6 +4,8 @@ title: KUKA youBot Simulation
 permalink: /engineering/kuka
 ---
 
+![bot](/assets/img/kukapic.png)  
+
 For my capstone project in the course on robotic manipulation, I developed a simulation package for controlling a Kuka YouBot to autonomously pick up and move a block within the CoppeliaSim environment.
 
 ## Trajectory Generation

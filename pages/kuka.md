@@ -37,7 +37,7 @@ This control strategy effectively managed both the wheels and the arm joints of 
 
 Simulation in Action:
 
-<video controls width="540" height="960" muted loop autoplay>
+<video controls width="960" height="540" muted loop autoplay>
     <source src="/assets/img/kuka/449demo.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>  

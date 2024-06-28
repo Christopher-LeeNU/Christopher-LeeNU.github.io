@@ -25,7 +25,7 @@ The main body was modeled in Solidworks, and multiple iterations were required t
 - Actuation: The robot is powered by two DC motors, controlled via simple PWM through a motor driver. These motors expand and contract strings connecting the front and rear of the robot. This setup enables the robot to move forward and turn left or right.
 - Traction and Balance: High-friction rubber coatings on the front and rear sections ensure proper ground traction. The "face" and motors are balanced in weight to maintain stability. In the test video below, the front is weighed down by some pliers.
 
-<video controls width="960" height="540" muted loop autoplay>
+<video controls width="540" height="960" muted loop autoplay>
     <source src="/assets/img/ds/crawl.MOV" type="video/mp4">
     Your browser does not support the video tag.
 </video>  

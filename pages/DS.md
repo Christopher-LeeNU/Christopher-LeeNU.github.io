@@ -21,9 +21,9 @@ The main body was modeled in Solidworks, and multiple iterations were required t
 
 ![dsside](/assets/img/ds/dsside.jpg)  
 
-Material and Structure: The robot's body is made from laser-cut cardboard, with precise control over material thickness at the creases to manage stiffness.
-Actuation: The robot is powered by two DC motors, controlled via simple PWM through a motor driver. These motors expand and contract strings connecting the front and rear of the robot. This setup enables the robot to move forward and turn left or right.
-Traction and Balance: High-friction rubber coatings on the front and rear sections ensure proper ground traction. The "face" and motors are balanced in weight to maintain stability.
+- Material and Structure: The robot's body is made from light and cheap laser-cut cardboard, with precise control over material thickness at the creases to manage stiffness.
+- Actuation: The robot is powered by two DC motors, controlled via simple PWM through a motor driver. These motors expand and contract strings connecting the front and rear of the robot. This setup enables the robot to move forward and turn left or right.
+- Traction and Balance: High-friction rubber coatings on the front and rear sections ensure proper ground traction. The "face" and motors are balanced in weight to maintain stability. In the test video below, the front is weighed down by some pliers.
 
 <video controls width="1080" height="1920" muted loop autoplay>
     <source src="/assets/img/ds/crawl.MOV" type="video/mp4">

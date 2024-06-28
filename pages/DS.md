@@ -23,9 +23,12 @@ The main body was modeled in Solidworks, and multiple iterations were required t
 
 Material and Structure: The robot's body is made from laser-cut cardboard, with precise control over material thickness at the creases to manage stiffness.
 Actuation: The robot is powered by two DC motors, controlled via simple PWM through a motor driver. These motors expand and contract strings connecting the front and rear of the robot. This setup enables the robot to move forward and turn left or right.
-Traction and Balance: High-friction rubber coatings on the front and rear sections ensure proper ground traction. The "face" and motors are balanced in weight to maintain stability.  
+Traction and Balance: High-friction rubber coatings on the front and rear sections ensure proper ground traction. The "face" and motors are balanced in weight to maintain stability.
 
-![crawl](/assets/img/ds/crawl.MOV)
+<video controls width="800" height="500" muted loop autoplay>
+    <source src="/assets/img/ds/crawl.MOV" type="video/mp4">
+    Your browser does not support the video tag.
+</video>  
 
 ## Control System
 The robot is controlled using a Nintendo DS, with the DS's camera capturing images and sending them to the robot's LCD screen via a WiFi WebSocket. This innovative use of the DS not only controls the robot's movement but also enhances interactivity by providing real-time visual feedback (and there's cool stickers).

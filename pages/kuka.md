@@ -1,46 +1,40 @@
 ---
 layout: page
-title: KUKA youBot Control
+title: KUKA youBot Simulation
 permalink: /engineering/kuka
 ---
 
+For my capstone project in the course on robotic manipulation, I developed a simulation package for controlling a Kuka YouBot to autonomously pick up and move a block within the CoppeliaSim environment.
 
+## Trajectory Generation
+The desired trajectory for the manipulator was divided into eight distinct segments. The key steps involved were:
 
-My Kale Bell Train is an injection-molded toy train, created as a team project by a group of four students, and gifted to our professor whose name inspired the design. This project was a highly rewarding experience, showcasing our skills in design, engineering, and manufacturing.
+1. Initialization
+   - Determine the initial and final positions of the block in the world frame.
+   - Define a standoff position above the block with the grippers angled at 45 degrees to the ground.
+2. Segment Computation
+   - Using the Modern Robotics code library, compute the trajectory for each segment
+   - Move from the start position to the standoff position above the initial block location.
+   - Descend vertically to prepare for grasping the block.
+   - Grasp the block.
+   - Ascend back to the standoff position.
+   - Move to the standoff position above the block's final destination.
+   - Descend vertically to release the block.
+   - Release the block.
+   - Ascend back to the final standoff position.
+   - Testing the Desired Trajectory of the End Effector
 
-## Concept and Design  
+To validate the computed trajectory, I simulated the end effector's movement, ensuring it followed the specified path accurately.
 
-![sketch](/assets/img/mykalebelltrain/sketch.png)  
+Motion and Feedback Control
+After generating the desired trajectory, I implemented a PI control algorithm to follow this trajectory. The control system compared the actual end effector position to the desired position and calculated the required end effector twist based on the PI controller constants.
 
-The project began with a simple concept sketch of the train. From there, we developed detailed CAD models using Siemens NX. The models included both the train and a cart, designed with precision to ensure they could be manufactured efficiently and accurately. 
+Control System:
 
-![cad](/assets/img/mykalebelltrain/cad.png)  
+Proportional Gain: 2
+Integral Gain: 0.5
+This control strategy effectively managed both the wheels and the arm joints of the YouBot.
 
-## Mold Design and Manufacturing
+Simulation in Action:
 
-We focused on creating cores and molds that adhered to best practices for injection molding. Key considerations included:
-
-Uniform Wall Thickness: To prevent defects and ensure consistent quality.
-Draft Angles: To facilitate easy removal of the parts from the molds.
-Proper Runner Placement: To ensure smooth flow of the molten material and reduce waste.  
-
-After finalizing the designs, we used CNC machining to create the cores and molds from durable materials.
-
-![cam](/assets/img/mykalebelltrain/cam.png)  
-
-<p float="left">
-  <img src="/assets/img/mykalebelltrain/core.jpg" width="300" />
-  <img src="/assets/img/mykalebelltrain/mold.jpg" width="300" /> 
-</p>  
-
-## Injection Molding Process
-For the injection molding process, we chose Polypropylene due to its excellent balance of properties, including durability and ease of molding. The parts were injected, cooled, and then assembled into the final train and cart.
-
-![belltrain](/assets/img/mykalebelltrain/belltrain.JPEG)  
-
-## Outcome and Presentation
-The completed Kale Bell Train was presented to our professor, who was very pleased with the result. The project not only allowed us to apply our theoretical knowledge but also provided practical experience in CAD modeling, CNC machining, and injection molding.
-
-This portfolio entry highlights the successful execution of a comprehensive engineering project, from concept to finished product.
-
-
+The best performance was achieved with the proportional and integral gains mentioned above, resulting in smooth and accurate manipulation of the block within the simulation.

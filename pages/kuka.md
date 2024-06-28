@@ -32,9 +32,14 @@ After generating the desired trajectory, I implemented a PI control algorithm to
 Control System:
 
 Proportional Gain: 2
-Integral Gain: 0.5
+Integral Gain: 15
 This control strategy effectively managed both the wheels and the arm joints of the YouBot.
 
 Simulation in Action:
+
+<video controls width="540" height="960" muted loop autoplay>
+    <source src="/assets/img/kuka/449demo.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>  
 
 The best performance was achieved with the proportional and integral gains mentioned above, resulting in smooth and accurate manipulation of the block within the simulation.

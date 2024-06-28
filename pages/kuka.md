@@ -26,16 +26,10 @@ The desired trajectory for the manipulator was divided into eight distinct segme
 
 To validate the computed trajectory, I simulated the end effector's movement, ensuring it followed the specified path accurately.
 
-Motion and Feedback Control
-After generating the desired trajectory, I implemented a PI control algorithm to follow this trajectory. The control system compared the actual end effector position to the desired position and calculated the required end effector twist based on the PI controller constants.
+## Motion and Feedback Control
+After generating the desired trajectory, I implemented a PI control algorithm to follow this trajectory. The control system compared the actual end effector position to the desired position and calculated the required end effector twist based on the PI controller constants. I had success with a proportional gain of 2 and an integral gain 15.
 
-Control System:
-
-Proportional Gain: 2
-Integral Gain: 15
-This control strategy effectively managed both the wheels and the arm joints of the YouBot.
-
-Simulation in Action:
+## Simulation in Action:
 
 <video controls width="960" height="540" muted loop autoplay>
     <source src="/assets/img/kuka/449demo.mp4" type="video/mp4">

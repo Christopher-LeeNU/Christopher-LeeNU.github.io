@@ -36,10 +36,12 @@ After finalizing the designs, we used CNC machining to create the cores and mold
 ## Injection Molding Process
 For the injection molding process, we chose Polypropylene due to its excellent balance of properties, including durability and ease of molding. The parts were injected, cooled, and then assembled into the final train and cart.
 
-![belltrain](/assets/img/mykalebelltrain/belltrain.JPEG)  
+![injection](/assets/img/mykalebelltrain/inject.JPG)  
 
 ## Outcome and Presentation
 The completed Kale Bell Train was presented to our professor, who was very pleased with the result. The project not only allowed us to apply our theoretical knowledge but also provided practical experience in CAD modeling, CNC machining, and injection molding.
 
-This portfolio entry highlights the successful execution of a comprehensive engineering project, from concept to finished product.
+This portfolio entry highlights the successful execution of a comprehensive engineering project, from concept to finished product.  
+
+![belltrain](/assets/img/mykalebelltrain/belltrain.JPEG)  
 

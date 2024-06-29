@@ -38,7 +38,9 @@ We were successfully able to achieve bilateral control to complete lab tasks lik
 
 # Iteration 2: Triple Digits
 
-
+<p float="left">
+  <img src="/assets/img/haptics/aiet.png" width="600" />
+</p>
 
 Now that we learned what it took to carry out this design, we emphasized designing for ease of assembly and shrinking the design to a human form factor. We also decided to include a middle finger to make certain tasks easier. Other new features include potentiometers for joint position tracking, frameless motors to reduce weight, and an additional joint for finger splaying action. 
 

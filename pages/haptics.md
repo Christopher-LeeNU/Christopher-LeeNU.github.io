@@ -16,8 +16,8 @@ This required understanding the hand very well. We began by investigating the fo
 
 <p float="left">
   <img src="/assets/img/haptics/sketch1.jpg" width="300" />
-  <img src="/assets/img/haptics/sketch2.jpg" width="300" />
-  <img src="/assets/img/haptics/v0.jpg" width="300" /> 
+  <img src="/assets/img/haptics/sketch2.JPG" width="300" />
+  <img src="/assets/img/haptics/v0.JPG" width="300" /> 
 </p>
 
 

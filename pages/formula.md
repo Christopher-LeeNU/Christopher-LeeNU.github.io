@@ -27,7 +27,8 @@ I then created a SolidWorks assembly of the system. I used torsional stress equa
 
 We manufactured parts using manual mills, lathes, and CNC machines. We had tight tolerances to minimize play in the system.  
 
-![steering in frame](/assets/img/formula/steering_in_frame.jpg)
+![steering in frame](/assets/img/formula/steering_in_frame.jpg)  
+  
 
 # Uprights
 

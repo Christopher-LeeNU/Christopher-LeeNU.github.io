@@ -25,7 +25,7 @@ We decided to use a cable transmission ratio since it was low friction and had n
 We quickly learned that although this worked very well when set up properly, setting it up properly was pretty difficult. Over several iterations, we designed the system to have accessible and intuitive tensioning mechanisms. Cable slacking and slipping were our biggest enemies because it broke user immersion, desyncing between the haptic and robotic side, and could lead to further unravelling. 
 
 <p float="left">
-  <img src="/assets/img/haptics/route.png" width="300" />
+  <img src="/assets/img/haptics/route.png" width="600" />
   <img src="/assets/img/haptics/v2.jpg" width="300" />
 </p>
 

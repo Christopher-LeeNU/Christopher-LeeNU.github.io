@@ -10,7 +10,17 @@ The first 6 months of the project were for creating an alpha prototype as a caps
 In the second iteration, we focused on optimizing for manufacturability, reliability, and further mimicking human hand proportions. This project is ongoing and is pretty awesome. 
 
 # Iteration 1: First Hand Experience
+
 The overall team was 20 people. I was in the 5 person haptic finger subteam. We created a 2 rotational joint robot that fit over the wearer's index finger. 
+This required understanding the hand very well. We began by investigating the form factor and user comfort through literature review, concept sketches, and low-fidelity prototypes.
+
+<p float="left">
+  <img src="/assets/img/haptics/sketch1.jpg" width="300" />
+  <img src="/assets/img/haptics/sketch2.jpg" width="300" />
+  <img src="/assets/img/haptics/v0.jpg" width="300" /> 
+</p>
+
+
 We decided to use a cable transmission ratio since it was low friction and had no backlash (as opposed to gears which have backlash). 
 We quickly learned that although this worked very well when set up properly, setting it up properly was pretty difficult. Over several iterations, we designed the system to have accessible and intuitive tensioning mechanisms. Cable slacking and slipping were our biggest enemies because it broke user immersion, desyncing between the haptic and robotic side, and could lead to further unravelling. 
 

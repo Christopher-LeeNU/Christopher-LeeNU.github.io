@@ -31,7 +31,7 @@ We quickly learned that although this worked very well when set up properly, set
 
 We were successfully able to achieve bilateral control to complete lab tasks like unscrewing a water bottle or grasping a vial. 
 
-<video controls width="540" height="960" muted loop autoplay>
+<video controls width="960" height="540" muted loop autoplay>
     <source src="/assets/img/haptics/vid2.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>  

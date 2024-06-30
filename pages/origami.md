@@ -64,52 +64,61 @@ Origami is a traditional Japanese craft, and the beauty and simplicity of the mo
     <a href="/assets/img/raccoon.jpg" target="_blank">
       <img src="/assets/img/raccoon.jpg" alt="Raccoon">
       <div class="image-overlay">
-        <p>Raccoon</p>
+        <p>Raccoon (Taught at Chicago Origami Convention 2023)</p>
       </div>
     </a>
   </div>
   
   <div class="image-card">
-    <a href="/assets/img/Dinovember2020/chenanisaurus.jpg" target="_blank">
-      <img src="/assets/img/Dinovember2020/chenanisaurus.jpg" alt="Chenanisaurus">
+    <a href="/assets/img/origami/bird.JPG" target="_blank">
+      <img src="/assets/img/origami/bird.JPG" alt="Leslye's Bird">
       <div class="image-overlay">
-        <p>Chenanisaurus</p>
+        <p>Leslye's Bird</p>
       </div>
     </a>
   </div>
   
   <div class="image-card">
-    <a href="/assets/img/Dinovember2020/zuniceratops.jpg" target="_blank">
-      <img src="/assets/img/Dinovember2020/zuniceratops.jpg" alt="Zuniceratops">
+    <a href="/assets/img/origami/fish.JPG" target="_blank">
+      <img src="/assets/img/origami/fish.JPG" alt="Carp">
       <div class="image-overlay">
-        <p>Zuniceratops</p>
+        <p>Carp</p>
       </div>
     </a>
   </div>
   
   <div class="image-card">
-    <a href="/assets/img/Dinovember2020/einiosaurus.jpg" target="_blank">
-      <img src="/assets/img/Dinovember2020/einiosaurus.jpg" alt="Einiosaurus">
+    <a href="/assets/img/origami/hamster.JPG" target="_blank">
+      <img src="/assets/img/origami/hamster.JPG" alt="Hamster">
       <div class="image-overlay">
-        <p>Einiosaurus</p>
+        <p>Hamster (Taught at Chicago Origami Convention 2024)</p>
       </div>
     </a>
   </div>
   
   <div class="image-card">
-    <a href="/assets/img/Dinovember2020/pelagornis.jpg" target="_blank">
-      <img src="/assets/img/Dinovember2020/pelagornis.jpg" alt="Pelagornis">
+    <a href="/assets/img/origami/coahuilaceratops.png" target="_blank">
+      <img src="/assets/img/origami/coahuilaceratops.png" alt="Coahuilaceratops">
       <div class="image-overlay">
-        <p>Pelagornis</p>
+        <p>Coahuilaceratops</p>
       </div>
     </a>
   </div>
   
   <div class="image-card">
-    <a href="/assets/img/Dinovember2020/velafronstree.jpg" target="_blank">
-      <img src="/assets/img/Dinovember2020/velafronstree.jpg" alt="Velafrons">
+    <a href="/assets/img/origami/iguana.jpeg" target="_blank">
+      <img src="/assets/img/origami/iguana.jpeg" alt="Iguana">
       <div class="image-overlay">
-        <p>Velafrons</p>
+        <p>Jared the Iguana</p>
+      </div>
+    </a>
+  </div>
+
+  <div class="image-card">
+    <a href="/assets/img/origami/lobster.png" target="_blank">
+      <img src="/assets/img/origami/lobster.png" alt="Lobster">
+      <div class="image-overlay">
+        <p>Lobster</p>
       </div>
     </a>
   </div>

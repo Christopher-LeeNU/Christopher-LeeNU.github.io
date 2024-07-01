@@ -1,10 +1,8 @@
 
 ---
-
 layout: page
 title: Northwestern Haptics Lab
 permalink: /engineering/haptics
-
 ---
 
 ## Northwestern Haptics Lab

@@ -4,6 +4,8 @@ title: Northwestern Haptics Lab
 permalink: /engineering/haptics
 ---  
 
+![aiet hand](/assets/img/aiet-hand.png)  
+
 ## Northwestern Haptics Lab
 
 This project focuses on achieving high-gain bilateral feedback control for a robotic glove and hand, enabling the robot hand to mimic your movements while allowing you to feel the forces it experiences. Commissioned by the Department of Energy, this project aims to enable researchers to perform dexterous tasks remotely, reducing exposure to severe radiation. The first six months were dedicated to creating an alpha prototype as a capstone project. The second iteration focuses on optimizing manufacturability, reliability, and further mimicking human hand proportions. This project is ongoing and pretty fun.
